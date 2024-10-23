@@ -244,7 +244,7 @@
             </div>
             <!-- Subject Stream 3 -->
             <div class="subject-stream-card" onclick="openPopup('physical-science')">
-                <img src="physical_science.PNG" alt="Subject Stream 3">
+                <img src="Physical_science.PNG" alt="Subject Stream 3">
                 <h3>Physical Science</h3>
                 <p>
                     Delve into the wonders of the physical world, studying subjects like Combined Maths, Chemistry, Physics, and ICT
